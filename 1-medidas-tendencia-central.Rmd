@@ -113,6 +113,4 @@ Meddia
 # Y por último la moda
 tabla.muestra <- data.frame(table(muestra))
 tabla.muestra
-valor.muestra<-1.1
-valor.muestra
 ```
